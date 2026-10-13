@@ -1,2 +1,2 @@
 # ADA526-Group2
-Test, kommer dette opp
+This is our project of robotic arm that is the best in the world!!!
